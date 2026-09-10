@@ -21,6 +21,8 @@ Berikut penjelasan mengenai fitur-fitur yang tersedia dan cara menggunakan aplik
   Pastikan PIN ini kamu ingat karena akan digunakan ketika ingin masuk ke **Private Gallery** melalui aplikasi kalkulator.
   Setelah PIN berhasil dibuat, kamu akan langsung diarahkan ke halaman **Private Gallery**.
 
+  <img width="3840" height="2160" alt="01" src="https://github.com/user-attachments/assets/6151869e-3745-4016-83e3-8d1326eed3da" />
+
 # 2. Cara Masuk ke Private Gallery
   Setelah selesai melakukan pengaturan awal, kamu bisa memilih **"Kembali ke Kalkulator"**.
   Kamu juga bisa keluar dari aplikasi dan membukanya kembali.
@@ -46,6 +48,8 @@ Berikut penjelasan mengenai fitur-fitur yang tersedia dan cara menggunakan aplik
   Sementara itu, **foto, video, dan file biasa** yang kamu masukkan ke Private Gallery dapat dipulihkan ke galeri biasa tanpa perlu memasukkan data tersebut.
   Jadi, secara singkat:
 
+<img width="3840" height="2160" alt="03" src="https://github.com/user-attachments/assets/11ee336b-efad-46ed-9529-ef472f120f0b" />
+
 > **Hanya foto yang diambil melalui fitur "Lupa Kata Sandi" yang mendapatkan perlindungan tambahan.**
   Fitur ini dibuat agar kamu dapat mengetahui jika ada seseorang yang mencoba mengakses Private Gallery melalui aplikasi kalkulator.
 
@@ -62,6 +66,8 @@ Berikut penjelasan mengenai fitur-fitur yang tersedia dan cara menggunakan aplik
 1. Pilih **foto atau video** yang ingin dikembalikan.
 2. Tekan **"Kembalikan ke Galeri"**.
 3. File akan dikembalikan ke galeri biasa.
+
+<img width="3840" height="2160" alt="92" src="https://github.com/user-attachments/assets/2ba7a5cc-cce9-4382-9961-308915757073" />
 
 # 5. Pengaturan Private Gallery
   Di bagian kanan atas Private Gallery terdapat menu **Pengaturan**.
