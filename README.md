@@ -21,7 +21,8 @@ Berikut penjelasan mengenai fitur-fitur yang tersedia dan cara menggunakan aplik
   Pastikan PIN ini kamu ingat karena akan digunakan ketika ingin masuk ke **Private Gallery** melalui aplikasi kalkulator.
   Setelah PIN berhasil dibuat, kamu akan langsung diarahkan ke halaman **Private Gallery**.
 
-  <img width="3840" height="2160" alt="01" src="https://github.com/user-attachments/assets/6151869e-3745-4016-83e3-8d1326eed3da" />
+ <img width="1280" height="720" alt="001" src="https://github.com/user-attachments/assets/ddd01a46-a729-40b6-adaf-90e3066b6008" />
+
 
 # 2. Cara Masuk ke Private Gallery
   Setelah selesai melakukan pengaturan awal, kamu bisa memilih **"Kembali ke Kalkulator"**.
